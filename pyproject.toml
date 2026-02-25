@@ -1,0 +1,10 @@
+[project]
+name = "pypsa-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "highspy>=1.13.1",
+    "pypsa>=1.0.7",
+]
