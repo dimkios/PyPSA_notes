@@ -1,7 +1,7 @@
 # THE PyPSA HANDBOOK
 
 <div class="container">
-  <img src="imgs/cover.PNG" alt="Περιγραφή" style=" display: block;
+  <img src="imgs/cover.png" alt="Περιγραφή" style=" display: block;
   margin-left: auto;
   margin-right: auto;
   width: 40%;">
