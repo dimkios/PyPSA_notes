@@ -56,7 +56,7 @@
 <br />
 
 <div class="container">
-  <img src="imgs/kirchhof.PNG" alt="Περιγραφή" style=" display: block;
+  <img src="imgs/kirchhof.png" alt="Περιγραφή" style=" display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;">

@@ -6,7 +6,7 @@
 
 
 <div class="container">
-  <img src="imgs/basic_components.PNG" alt="Περιγραφή" style=" display: block;
+  <img src="imgs/basic_components.png" alt="Περιγραφή" style=" display: block;
   margin-left: auto;
   margin-right: auto;
   width: 80%;">
@@ -39,7 +39,7 @@
 
 >Το οριακό κόστος αντιπροσωπεύει τη δαπάνη για την παραγωγή μίας επιπλέον μονάδας ενέργειας (συνήθως ανά MWh).
 
-* Σύνθεση: Περιλαμβάνει μεταβλητά έξοδα, όπως το κόστος καυσίμου, τα δικαιώματα εκπομπών CO$_2$ και τα μεταβλητά έξοδα συντήρησης.
+* Σύνθεση: Περιλαμβάνει μεταβλητά έξοδα, όπως το κόστος καυσίμου, τα δικαιώματα εκπομπών CO2 και τα μεταβλητά έξοδα συντήρησης.
 
 * Ρόλος στο PyPSA: Καθορίζει τη σειρά προτεραιότητας (Merit Order). Το μοντέλο επιλέγει να λειτουργήσει πρώτα τις μονάδες με το χαμηλότερο οριακό κόστος (π.χ. ΑΠΕ, όπου το κόστος είναι σχεδόν μηδενικό) για να καλύψει τη ζήτηση.
 
@@ -94,7 +94,7 @@ network.add("Generator", "Solar_PV",
 ```
 
 <div class="container">
-  <img src="imgs/generators.PNG" alt="Περιγραφή" style=" display: block;
+  <img src="imgs/generators.png" alt="Περιγραφή" style=" display: block;
   margin-left: auto;
   margin-right: auto;
   width: 80%;">
@@ -161,7 +161,7 @@ network.add("StorageUnit", "Battery_System",
 ### 3.2.6 System-level view of PyPSA components
 
 <div class="container">
-  <img src="imgs/integrated.PNG" alt="Περιγραφή" style=" display: block;
+  <img src="imgs/integrated.png" alt="Περιγραφή" style=" display: block;
   margin-left: auto;
   margin-right: auto;
   width: 80%;">
