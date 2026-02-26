@@ -73,7 +73,7 @@
 Η βασική διαφορά μεταξύ AC (Εναλλασσόμενο Ρεύμα) και DC (Συνεχές Ρεύμα) βρίσκεται στην κατεύθυνση προς την οποία κινούνται τα ηλεκτρόνια μέσα σε έναν αγωγό (όπως ένα καλώδιο).
 
 <div class="container">
-  <img src="imgs/acdc.PNG" alt="Περιγραφή" style=" display: block;
+  <img src="imgs/acdc.png" alt="Περιγραφή" style=" display: block;
   margin-left: auto;
   margin-right: auto;
   width: 80%;">
