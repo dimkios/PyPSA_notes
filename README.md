@@ -12,10 +12,11 @@
 
 [ΚΕΦΑΛΑΙΟ 2]
 
-[ΚΕΦΑΛΑΙΟ 3.2](chapter3.2.md)
+> - [ΚΕΦΑΛΑΙΟ 3.2](chapter3.2.md)
 
-[ΚΕΦΑΛΑΙΟ 3.3](chapter3.3.md)
+> - [ΚΕΦΑΛΑΙΟ 3.3](chapter3.3.md)
 
-[ΚΕΦΑΛΑΙΟ 4](chapter4.md)
+> - [ΚΕΦΑΛΑΙΟ 4](chapter4.md)
+
 ---
-[EXTRAS](extras.md)
+> - [EXTRAS](extras.md)
