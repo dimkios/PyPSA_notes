@@ -4,7 +4,7 @@
   <img src="imgs/cover.png" alt="Περιγραφή" style=" display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 40%;">
+  width: 20%;">
 </div>
 
 
@@ -17,6 +17,8 @@
 > - [ΚΕΦΑΛΑΙΟ 3.3](chapter3.3.md)
 
 > - [ΚΕΦΑΛΑΙΟ 4](chapter4.md)
+
+> - [ΚΕΦΑΛΑΙΟ 5.6](chapter5.md)
 
 ---
 > - [EXTRAS](extras.md)
