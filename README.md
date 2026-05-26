@@ -22,5 +22,8 @@
 
 > - [ΚΕΦΑΛΑΙΟ 6](chapter6.md)
 
+> - [ΚΕΦΑΛΑΙΟ 7](chapter7.md)
+
+> - [ΚΕΦΑΛΑΙΟ 8](chapter8.md)
 ---
 > - [EXTRAS](extras.md)
